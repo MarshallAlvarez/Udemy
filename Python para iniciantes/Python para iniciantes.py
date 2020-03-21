@@ -205,17 +205,3 @@ while True :
        if i == 2 : break
 
 for i in range( 0 , 5 ) : pass
-
-
-
-
-
-
-
-
-
-
-
-
-
-
